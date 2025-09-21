@@ -1,0 +1,24 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore database files (SQLite, if you’re using it)
+db.sqlite3
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files (e.g., .env for sensitive data)
+.env
+
+# IDE/editor settings (optional)
+.vscode/
+.idea/
+
+# Ignore system-specific files (optional)
+.DS_Store
+Thumbs.db
